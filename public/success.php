@@ -1,7 +1,6 @@
 <?php
 session_start();
 date_default_timezone_set('Asia/Tashkent');
-require "../vendor/autoload.php";
 require '../models/connection.php';
 
 global $pdo;
@@ -12,7 +11,7 @@ $chatId = '-4701963866';
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $name = $_POST['name'];
     $contact = $_POST['contact'];
-    $product = $_POST['product'];  // Mahsulotni olamiz
+    $product = $_POST['product']; 
     $site = $_SERVER['HTTP_HOST'];
     $created_at = date('Y-m-d H:i:s');
 
