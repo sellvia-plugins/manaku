@@ -5,8 +5,8 @@ require '../models/connection.php';
 
 global $pdo;
 
-$botToken = '7703125582:AAHzeLp_mZVDTXl_c023YqaNMYTcFTeXXRs';
-$chatId = '-4701963866';
+$botToken = '8099038519:AAEv0wOiEy5MJbQxX0h7er8ZVXOIGQyqcLQ';
+$chatId = '-1002261167789';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $name = $_POST['name'];
