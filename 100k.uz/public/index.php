@@ -84,18 +84,6 @@ unset($_SESSION['message']);
                                     allowfullscreen
                              ></iframe>
                             </div>
-                            <div class="item">
-                                <img loading="lazy" class="lazyload" src="img/photo_2024-11-19_02-16-03.jpg"
-                                    alt="card" />
-                            </div>
-                            <div class="item">
-                                <img loading="lazy" class="lazyload" src="img/photo_2024-11-19_02-16-02.jpg"
-                                    alt="card" />
-                            </div>
-                            <div class="item">
-                                <img loading="lazy" class="lazyload" src="img/photo_2024-11-19_02-16-00.jpg"
-                                    alt="card" />
-                            </div>
                         </div>
                     </div>
 
@@ -304,14 +292,6 @@ unset($_SESSION['message']);
                                     allowfullscreen
                              ></iframe>
                             </div>
-                            <div class="item">
-                                <img loading="lazy" class="lazyload" src="img/photo_2024-08-10_09-15-22 (2).jpg"
-                                    alt="card" />
-                            </div>
-                            <div class="item">
-                                <img loading="lazy" class="lazyload" src="img/photo_2024-08-10_09-15-22.jpg"
-                                    alt="card" />
-                            </div>
                         </div>
                     </div>
 
@@ -410,18 +390,6 @@ unset($_SESSION['message']);
                                 <iframe width="100%" src="https://youtube.com/embed/x0OTsN6AtSs?feature=share?rel=0&modestbranding=1&controls=0&showinfo=0&autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                     allowfullscreen
                              ></iframe>
-                            </div>
-                            <div class="item">
-                                <img loading="lazy" class="lazyload" src="img/photo_2024-08-14_17-32-07.jpg"
-                                    alt="card" />
-                            </div>
-                            <div class="item">
-                                <img loading="lazy" class="lazyload" src="img/photo_2024-08-14_17-32-08.jpg"
-                                    alt="card" />
-                            </div>
-                            <div class="item">
-                                <img loading="lazy" class="lazyload" src="img/photo_2024-08-14_17-32-09.jpg"
-                                    alt="card" />
                             </div>
                         </div>
                     </div>
