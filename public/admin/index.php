@@ -7,7 +7,7 @@ $site = isset($_GET['site']) ? $_GET['site'] : null;
 
 try {
     if ($site) {
-        $stmt = $pdo->prepare("SELECT name, contact, created_at FROM leads WHERE site = :site");
+        $stmt = $pdo->prepare("SELECT name, contact, product, created_at FROM leads WHERE site = :site");
         $stmt->execute(['site' => $site]);
         $leads = $stmt->fetchAll(PDO::FETCH_ASSOC);
     } else {
@@ -86,6 +86,7 @@ function formatContact($contact) {
         <th>N_o</th>
         <th>Name</th>
         <th>Contact</th>
+        <th>Product</th>
         <th>Date</th>
     </tr>
     </thead>
@@ -97,6 +98,7 @@ function formatContact($contact) {
                 <td><?= $i++ ?></td>
                 <td><?= htmlspecialchars($lead['name']) ?></td>
                 <td><?= htmlspecialchars(formatContact($lead['contact'])) ?></td>
+                <td><?= htmlspecialchars($lead['product']) ?></td>
                 <td><?= htmlspecialchars($lead['created_at']) ?></td>
             </tr>
     <?php endforeach; ?>
