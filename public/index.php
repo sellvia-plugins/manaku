@@ -463,6 +463,106 @@ unset($_SESSION['message']);
                 </div>
             </div>
 
+            <div class="container py-3">
+                <div class="row align-items-center">
+                    <div class="col my-3 pr-3">
+                        <h1 class="h4 font-weight-bold mb-0">Kalit va tasbehlarni ilish uchun islomiy dekor</h1>
+                    </div>
+                    <div class="col-auto my-3 text-right">
+                        <strong class="position-price1">
+                            70,000 so'm
+                        </strong>
+                        <div class="text-warning">
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6 mb-4">
+                        <div class="owl-carousel owl-theme content_linear_card_body_indicators">
+
+                            <div class="item-youtube">
+                                <iframe width="100%" src="https://youtube.com/embed/4BgQLLfvNeg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                        allowfullscreen
+                                ></iframe>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="orderFormSection" class="col-md-6 pl-md-4 mb-4">
+                        <div class="orderForm sk-form d-flex flex-column justify-content-between"
+                             style="min-height:100%;">
+                            <div>
+                                <h2 class="h3 font-weight-bold mb-4"> <a href="#orderFormSection"> Buyurtma
+                                        berish</a> </h2>
+
+                                <p class="mb-3"> Mahsulot narxi: <strong class="pricetag position-price2">70,000
+                                        so'm</strong> </p>
+                            </div>
+                            <form action="success.php" method="POST" onsubmit="disableButton()">
+                                <div class="my-3">
+
+                                    <input type="hidden" name="product" value="Kalit va tasbehlarni ilish uchun islomiy dekor" />
+
+                                    <div class="form-group">
+                                        <input class="form-control needclear" name="name"
+                                               placeholder="Ismingiz" type="text" />
+                                    </div>
+
+                                    <div class="form-group">
+                                        <input class="my-phone-mask form-control needclear" name="contact"
+                                               id="customer_phone" placeholder="Telefon raqamingiz" type="text" />
+                                    </div>
+                                </div>
+
+                                <div>
+                                    <div class="row">
+                                        <div class="col">
+                                            <div class="text-center">
+                                                <button data-attach-loading type="submit" style="max-width: 100%"
+                                                        class="sk-btn sk-btn--primary sk-btn--block sk-btn--lg"> Buyurtma
+                                                    berish </button>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="container">
+                <ul class="nav nav-tabs">
+                    <li class="nav-item">
+                        <a href="#productDescription" class="nav-link active" data-toggle="tab">Batafsil ma'lumot</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="productDesc py-5">
+                <div class="container px-3">
+
+                    <div class="tab-content" id="myTabContent">
+                        <div class="tab-pane fade show active" id="productDescription">
+                            <div>U nafaqat brelok vazifasini o’taydi, balki har safar uy yoki ofisingizga kirib-chiqishingizda sizga “Bismillah” kalomini yodingizga solib turuvchi eslatmadir.
+                                <br>
+                                Xususiyatlari: <br>
+                                Bo’yi: 220 mm <br>
+                                Eni: 350 mm <br>
+                                Qalinligi: 1.2 mm
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </section>
 
         <style>
