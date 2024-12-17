@@ -5,8 +5,8 @@ require '../models/connection.php';
 
 global $pdo;
 
-$botToken = '8099038519:AAEv0wOiEy5MJbQxX0h7er8ZVXOIGQyqcLQ';
-$chatId = '-1002261167789';
+$botToken = '7703125582:AAHzeLp_mZVDTXl_c023YqaNMYTcFTeXXRs';
+$chatId = '-4701963866';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $name = $_POST['name'];
@@ -76,7 +76,7 @@ unset($_SESSION['message']);
     <link rel="stylesheet" href="css/style.css">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-k6RqeWeci5ZR/Lv4MR0sA0FfDOMvR6E5i4eI5Qj3I5d3RkfdQXh5mNRpJ9c" crossorigin="anonymous">
-    <title>Zar Zamin</title>
+    <title>Manaku</title>
     <style>
         html, body {
             height: 100%;
@@ -113,7 +113,7 @@ unset($_SESSION['message']);
     <div class="container">
         <a href="https://www.instagram.com/manaku.uz?igsh=YXF2ZW83aGt5dnZ3&utm_source=qr" target="_blank">
             <button class="mt-4 flex items-center px-6 py-3 bg-gradient-to-r from-purple-500 to-pink-500 text-white font-bold rounded-full shadow-lg transform transition-transform duration-200 hover:scale-105 hover:shadow-xl">
-                <img src="images/logo2.jpg" alt="icon" class="icon"> 
+                <img src="themes/stock/assets/img/logo2.jpg" alt="icon" class="icon"> 
                 <span class="flex items-center">
                         <i class="fab fa-instagram mr-2"></i>
                         Instagram sahifasiga o'tish
