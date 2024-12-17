@@ -108,7 +108,7 @@ unset($_SESSION['message']);
 
 <div class="flex flex-col items-center">
     <div class="container">
-        Raqamingiz qoldirildi. Tez orada mutaxxassislarimiz siz bilan bog'lanadi!
+        Raqamingiz qoldirildi. Tez orada mutaxassislarimiz siz bilan bog'lanadi!
     </div>
     <div class="container">
         <a href="https://www.instagram.com/manaku.uz?igsh=YXF2ZW83aGt5dnZ3&utm_source=qr" target="_blank">
