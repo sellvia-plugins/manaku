@@ -139,7 +139,7 @@ unset($_SESSION['message']);
                                         Kalit va tasbehlarni ilish uchun islomiy dekor
                                     </div>
                                     <div class="productsList--item--price">
-                                        <strong class="font-weight-bold"> 70,000</strong>
+                                        <strong class="font-weight-bold"> 90,000</strong>
 
                                         <span class="small">so'm</span>
                                     </div>

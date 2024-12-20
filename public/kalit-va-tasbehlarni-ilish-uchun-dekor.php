@@ -63,7 +63,7 @@ unset($_SESSION['message']);
                     </div>
                     <div class="col-auto my-3 text-right">
                         <strong class="position-price1">
-                            70,000 so'm
+                            90,000 so'm
                         </strong>
                         <div class="text-warning">
                             <i class="fa fa-star"></i>
@@ -93,7 +93,7 @@ unset($_SESSION['message']);
                                 <h2 class="h3 font-weight-bold mb-4"> <a href="#orderFormSection"> Buyurtma
                                         berish</a> </h2>
 
-                                <p class="mb-3"> Mahsulot narxi: <strong class="pricetag position-price2">70,000
+                                <p class="mb-3"> Mahsulot narxi: <strong class="pricetag position-price2">90,000
                                         so'm</strong> </p>
                             </div>
                             <form action="success.php" method="POST" onsubmit="disableButton()">
