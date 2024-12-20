@@ -174,7 +174,7 @@ unset($_SESSION['message']);
                                             3D metal devor decor "Allohning 99 ismi", Asmoul Husna
                                         </div>
                                         <div class="productsList--item--price">
-                                            <strong class="font-weight-bold">580,000</strong>
+                                            <strong class="font-weight-bold">600,000</strong>
 
                                             <span class="small">so'm</span>
                                         </div>
@@ -228,7 +228,7 @@ unset($_SESSION['message']);
                                             Kalit va tasbehlarni ilish uchun islomiy dekor
                                         </div>
                                         <div class="productsList--item--price">
-                                            <strong class="font-weight-bold"> 70,000</strong>
+                                            <strong class="font-weight-bold"> 90,000</strong>
 
                                             <span class="small">so'm</span>
                                         </div>
