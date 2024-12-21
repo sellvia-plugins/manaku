@@ -63,7 +63,7 @@ unset($_SESSION['message']);
                     </div>
                     <div class="col-auto my-3 text-right">
                         <strong class="position-price1">
-                            600,000 so'm
+                            640,000 so'm
                         </strong>
                         <div class="text-warning">
                             <i class="fa fa-star"></i>
@@ -93,7 +93,7 @@ unset($_SESSION['message']);
                                 <h2 class="h3 font-weight-bold mb-4"> <a href="#orderFormSection"> Buyurtma
                                         berish</a> </h2>
 
-                                <p class="mb-3"> Mahsulot narxi: <strong class="pricetag position-price2">600,000
+                                <p class="mb-3"> Mahsulot narxi: <strong class="pricetag position-price2">640,000
                                         so'm</strong> </p>
                             </div>
                             <form action="success.php" method="POST" onsubmit="disableButton()">
@@ -184,7 +184,7 @@ unset($_SESSION['message']);
                                             Maxsus Qur’oni Karim qutisi uyingizga fayz olib kirish bilan birga, tasbih va kalit uchun ham ilgich vazifasini bajaradi.
                                         </div>
                                         <div class="productsList--item--price">
-                                            <strong class="font-weight-bold"> 200,000</strong>
+                                            <strong class="font-weight-bold"> 230,000</strong>
 
                                             <span class="small">so'm</span>
                                         </div>
@@ -210,7 +210,7 @@ unset($_SESSION['message']);
                                             “Alloh” kalomi bitilgan metall soat
                                         </div>
                                         <div class="productsList--item--price">
-                                            <strong class="font-weight-bold"> 200,000</strong>
+                                            <strong class="font-weight-bold"> 230,000</strong>
 
                                             <span class="small">so'm</span>
                                         </div>

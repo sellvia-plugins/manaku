@@ -174,7 +174,7 @@ unset($_SESSION['message']);
                                             3D metal devor decor "Allohning 99 ismi", Asmoul Husna
                                         </div>
                                         <div class="productsList--item--price">
-                                            <strong class="font-weight-bold">600,000</strong>
+                                            <strong class="font-weight-bold">640,000</strong>
 
                                             <span class="small">so'm</span>
                                         </div>
@@ -201,7 +201,7 @@ unset($_SESSION['message']);
                                             Maxsus Qur’oni Karim qutisi uyingizga fayz olib kirish bilan birga, tasbih va kalit uchun ham ilgich vazifasini bajaradi.
                                         </div>
                                         <div class="productsList--item--price">
-                                            <strong class="font-weight-bold"> 200,000</strong>
+                                            <strong class="font-weight-bold"> 230,000</strong>
 
                                             <span class="small">so'm</span>
                                         </div>
@@ -227,7 +227,7 @@ unset($_SESSION['message']);
                                             “Alloh” kalomi bitilgan metall soat
                                         </div>
                                         <div class="productsList--item--price">
-                                            <strong class="font-weight-bold"> 200,000</strong>
+                                            <strong class="font-weight-bold"> 230,000</strong>
 
                                             <span class="small">so'm</span>
                                         </div>
